@@ -1,0 +1,26 @@
+{
+  "displayName": "Truthy Chain",
+  "name": "truthy-chain",
+  "platform": "web",
+  "version": "1.0.0",
+  "description": "This makes truthy chain data elements",
+  "author": {
+    "name": "Perpetua Digital"
+  },
+  "viewBasePath": "src/view/",
+  "dataElements": [
+    {
+      "displayName": "Truthy Chain",
+      "name": "truthy-chain",
+      "schema": {
+        "$schema": "http://json-schema.org/draft-04/schema#",
+        "type": "object",
+        "properties": {}
+      },
+      "libPath": "src/lib/dataElements/truthyChain.js",
+      "viewPath": "dataElements/truthyChain.html"
+    }
+  ],
+  "exchangeUrl": "https://www.example.com",
+  "iconPath": "icon.svg"
+}
