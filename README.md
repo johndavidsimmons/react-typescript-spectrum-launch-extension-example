@@ -13,3 +13,4 @@ The main benefit of this is to utilize Adobe's React Spectrum UI library.
 # More Info
 
 See blog post here with more detailed info and demo videos:
+[https://www.perpetua.digital/blog/building-a-launch-extension-part-1-environment-setup](https://www.perpetua.digital/blog/building-a-launch-extension-part-1-environment-setup)
